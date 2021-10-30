@@ -27,27 +27,37 @@
 
 <!-- https://medium.com/@therafamartins/make-your-customized-badges-in-a-few-minutes-18e75475e271 -->
 
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-grey?style=for-the-badge&logo=protonmail&logoColor=ffffff)](mailto:giovanni1.pecoraro@protonmail.com)
-[![Twitter](https://img.shields.io/twitter/follow/Peco602?label=Twitter&logo=twitter&style=for-the-badge&color=blue&logoColor=ffffff)](https://twitter.com/Peco602)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://it.linkedin.com/in/giovanni-pecoraro-078500155)
-[![Scholar](https://img.shields.io/badge/Scholar-grey?style=for-the-badge&logo=googlescholar&logoColor=ffffff)](https://scholar.google.com/citations?user=JSM2EcoAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-grey?style=for-the-badge&logo=orcid&logoColor=ffffff)](https://orcid.org/0000-0003-2888-113X)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=ffffff)](mailto:giovanni1.pecoraro@protonmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/Peco602)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://it.linkedin.com/in/giovanni-pecoraro-078500155)
+[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=ffffff)](https://scholar.google.com/citations?user=JSM2EcoAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=ffffff)](https://orcid.org/0000-0003-2888-113X)
 
 ---
 
 ### 🛠 Languages and Tools
 
+![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logoColor=white&logo=git)
 ![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logoColor=white&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Nodejs](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/Angular-DD0031?&style=for-the-badge&logoColor=white&logo=angular)
+![C](https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logoColor=white&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logoColor=white&logo=c++)
+![Java](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logoColor=white&logo=java)
+![Swift](https://img.shields.io/badge/Swift-FA7343?&style=for-the-badge&logoColor=white&logo=swift)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?&style=for-the-badge&logoColor=white&logo=gnubash)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?&style=for-the-badge&logoColor=white&logo=powershell)
+![Docker](https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logoColor=white&logo=docker)
+
+<!--
 ![HTML](https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logoColor=white&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?&style=for-the-badge&logo=markdown)
-![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?&style=for-the-badge&logoColor=white&logo=gnubash)
-![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logoColor=white&logo=git)
+![Markdown](https://img.shields.io/badge/Markdon-000000?&style=for-the-badge&logo=markdown)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logoColor=white&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?&style=for-the-badge&logoColor=white&logo=firebase)
 ![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=flask)
+-->
 
 ---
 
