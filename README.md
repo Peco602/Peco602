@@ -41,6 +41,6 @@ I have attended the Italian Air Force Academy from 2008 to 2013 and received my 
 
 <p align="center">
   <img width="48.8%" src="https://github-readme-stats.vercel.app/api?username=Peco602&show_icons=true&theme=dark" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peco602&theme=dark&&layout=compact&exclude_repo=openlte-csi,lte-cell-scanner-csi" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peco602&theme=dark&&layout=compact&exclude_repo=OpenLTE-CSI,LTE-Cell-Scanner-CSI" />
 </p>
 
