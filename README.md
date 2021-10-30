@@ -26,10 +26,10 @@
 
 <!-- https://medium.com/@therafamartins/make-your-customized-badges-in-a-few-minutes-18e75475e271 -->
 
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-black?style=for-the-badge&logo=protonmail)](mailto:giovanni1.pecoraro@protonmail.com)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-grey?style=for-the-badge&logo=protonmail)](mailto:giovanni1.pecoraro@protonmail.com)
 [![Twitter](https://img.shields.io/twitter/follow/Peco602?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/Peco602)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin)](https://it.linkedin.com/in/giovanni-pecoraro-078500155)
-[![Scholar](https://img.shields.io/badge/Scholar-grey?style=for-the-badge&logo=scholar)](https://scholar.google.com/citations?user=JSM2EcoAAAAJ)
+[![Scholar](https://img.shields.io/badge/Scholar-grey?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=JSM2EcoAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-grey?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-2888-113X)
 
 ---
