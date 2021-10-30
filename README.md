@@ -4,14 +4,14 @@ I have attended the Italian Air Force Academy from 2008 to 2013 and received my 
 
 ---
 
-## My Accounts
+## Accounts
 
 [![Twitter](https://img.shields.io/twitter/follow/FayasNoushad?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/Peco602)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin)](https://it.linkedin.com/in/giovanni-pecoraro-078500155)
 
 ---
 
-## My Tools and Skills
+## Languages and Tools
 
 [![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logoColor=white&logo=python)](https://www.python.org)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logoColor=white&logo=html5)](https://html.spec.whatwg.org)
@@ -32,3 +32,10 @@ I have attended the Italian Air Force Academy from 2008 to 2013 and received my 
 [![GitHub](https://img.shields.io/badge/GitHub_Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=black)](https://github.com/features/actions)
 
 ---
+
+<a href="https://github.com/Peco602/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peco602&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/Peco602/Peco602.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peco602&repo=Peco602.github.io&theme=buefy" />
+</a>
