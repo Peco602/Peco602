@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Giovanni Pecoraro</h1>
+<h1 align="center">Giovanni Pecoraro</h1>
 
 <h3 align="center">Space, Cyber and System Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Peco602" alt="Peco602" /> </p>
