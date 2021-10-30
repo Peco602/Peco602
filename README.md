@@ -33,9 +33,9 @@ I have attended the Italian Air Force Academy from 2008 to 2013 and received my 
 
 ---
 
-<a href="https://github.com/Peco602/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peco602&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/Peco602/Peco602.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peco602&repo=Peco602.github.io&theme=buefy" />
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peco602&repo=anuraghazra.github.io&theme=buefy" />
 </a>
