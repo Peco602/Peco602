@@ -1,23 +1,7 @@
-[![About Me](/banner.png)</br>Learn more about me...](https://fayas.me)
-
----
-
-## About Me
-
-- 🔭 I’m currently working with python libraries and apis
-- 🌱 I’m currently learning more programming languages
-- 👯 I’m looking to collaborate on opensource projects
-- 🤔 I’m waiting for suggestions for creating new projects
-- 💬 Ask me about anything
-- 📫 You can reach me via [accounts](https://fayas.me/accounts)
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am a boy
-
----
-
 ## About Me
 
 I have attended the Italian Air Force Academy from 2008 to 2013 and received my University degree cum laude in Telecommunications Engineering at the University of Napoli "Federico II" in 2013. I also received a M.Sc. Degree in "Advanced Communication and Navigation Satellite Systems" in 2015 and got a Ph.D. in Electronic Engineering at the University of Roma "Tor Vergata" in 2019. Since 2013 I have worked at the Italian Space Control Center firstly as Head of Spacecraft Operations and then as responsible of Space Platform Engineering. I am a Spacecraft Operations Engineer qualified for all SICRAL GEO satellites and for the OPTSAT 3000 LEO satellite. Since 2019 I have been employed by the Italian Ministry of Defence as a Cyber Security Engineer and then as Head of Cyberspace Operations at the Joint Command for Cyberspace Operations. I obtained the GIAC Certified Incident Handler (GCIH) and the Certified Red Team Expert (CRTE) certifications and I joined the GIAC Advisory Board. I am currently working for RHEA Group as Cyber Security Manager in the Security Cyber Center of Excellence (SCCoE) project of the European Space Agency (ESA).
+
 ---
 
 ## My Accounts
