@@ -44,7 +44,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?&style=for-the-badge&logoColor=white&logo=angular)
 ![C](https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logoColor=white&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logoColor=white&logo=cplusplus)
-![C#](https://img.shields.io/badge/C#-239120?&style=for-the-badge&logoColor=white&logo=csharp)
+![C#](https://img.shields.io/badge/C Sharp-239120?&style=for-the-badge&logoColor=white&logo=csharp)
 ![Java](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logoColor=white&logo=java)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?&style=for-the-badge&logoColor=white&logo=swift)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?&style=for-the-badge&logoColor=white&logo=gnubash)
@@ -52,10 +52,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logoColor=white&logo=docker)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logoColor=white&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdon-000000?&style=for-the-badge&logo=markdown)
+![Markdown](https://img.shields.io/badge/Markdown-000000?&style=for-the-badge&logo=markdown)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logoColor=white&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?&style=for-the-badge&logoColor=white&logo=firebase)
-![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=flask)
 
 ---
 
