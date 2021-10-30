@@ -1,3 +1,5 @@
+<h1 align="center">Giovanni Pecoraro</h1>
+<!-- <h3 align="center">A passionate developer from Bangladesh <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Peco602" alt="Peco602" /> </p>
 
 ## About Me
