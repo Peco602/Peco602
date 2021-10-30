@@ -3,7 +3,7 @@
 <h3 align="center">Space, Cyber and System Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Peco602" alt="Peco602" /> </p>
 
-### About Me
+### 👨‍💻 About Me
 
 <!-- https://emojipedia.org/ -->
 
@@ -12,11 +12,13 @@
 - 🎓 Ph.D. in "Electronic Engineering" at University of Rome "Tor Vergata"
 - 📡🛰️ Spacecraft Operations Engineer
 - 🖥️ Cyber Security Manager
-- 👨🏽‍💻 Passionate Developer
+- 🔨 Passionate Developer
 
 ---
 
 ### 🚧 Projects
+
+- 
 
 ---
 
@@ -29,7 +31,7 @@
 
 ### 🛠 Languages and Tools
 
-[![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logoColor=white&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logoColor=white&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logoColor=white&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
