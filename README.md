@@ -11,7 +11,7 @@
 - 🎓 M.Sc. Degree in "Advanced Communication and Navigation Satellite Systems" at University of Rome "Tor Vergata"
 - 🎓 Ph.D. in "Electronic Engineering" at University of Rome "Tor Vergata"
 - 📡🛰️ Spacecraft Operations Engineer
-- 🖥️ Cyber Security Manager
+- 🖥️ Senior Security Engineer
 - 🔨 Passionate Developer
 
 ---
