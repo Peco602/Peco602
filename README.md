@@ -27,11 +27,11 @@
 
 <!-- https://medium.com/@therafamartins/make-your-customized-badges-in-a-few-minutes-18e75475e271 -->
 
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-grey?style=for-the-badge&logo=protonmail)](mailto:giovanni1.pecoraro@protonmail.com)
-[![Twitter](https://img.shields.io/twitter/follow/Peco602?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/Peco602)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin)](https://it.linkedin.com/in/giovanni-pecoraro-078500155)
-[![Scholar](https://img.shields.io/badge/Scholar-grey?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=JSM2EcoAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-grey?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-2888-113X)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-grey?style=for-the-badge&logo=protonmail&logoColor=ffffff)](mailto:giovanni1.pecoraro@protonmail.com)
+[![Twitter](https://img.shields.io/twitter/follow/Peco602?label=Twitter&logo=twitter&style=for-the-badge&color=blue&logoColor=ffffff)](https://twitter.com/Peco602)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://it.linkedin.com/in/giovanni-pecoraro-078500155)
+[![Scholar](https://img.shields.io/badge/Scholar-grey?style=for-the-badge&logo=googlescholar&logoColor=ffffff)](https://scholar.google.com/citations?user=JSM2EcoAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-grey?style=for-the-badge&logo=orcid&logoColor=ffffff)](https://orcid.org/0000-0003-2888-113X)
 
 ---
 
@@ -39,6 +39,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logoColor=white&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logoColor=white&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?&style=for-the-badge&logo=markdown)
@@ -54,6 +55,6 @@
 
 <!-- <p align="center"> -->
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Peco602&show_icons=true&theme=dark" />
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peco602&theme=dark&&layout=compact&exclude_repo=OpenLTE-CSI,LTE-Cell-Scanner-CSI" />
-</p> -->
+<!-- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peco602&theme=dark&&layout=compact&exclude_repo=OpenLTE-CSI,LTE-Cell-Scanner-CSI" /> -->
+<!-- </p> -->
 
