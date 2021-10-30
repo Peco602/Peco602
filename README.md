@@ -41,6 +41,6 @@ I have attended the Italian Air Force Academy from 2008 to 2013 and received my 
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Peco602&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peco602&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peco602&theme=tokyonight&&layout=compact&hide=cmake,matlab" />
 </p>
 
