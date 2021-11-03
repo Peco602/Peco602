@@ -18,6 +18,7 @@
 
 ### 🚧 Projects
 
+- [OpenLTE-CSI](https://github.com/Peco602/OpenLTE-CSI) and [LTE-Cell-Scanner-CSI](https://github.com/Peco602/LTE-Cell-Scanner-CSI): Localization, crowdcounting and acrivity recognition based on LTE Channel State Information (CSI)
 - Bullet Bet Predictions ([Android](https://play.google.com/store/apps/details?id=com.pecoraro.bullet&hl=en_US&gl=US)/[iOS](https://apps.apple.com/us/app/bullet-bet-predictions/id1355367427)): A mobile app that provides football predictions based on machine learning.
 - [RedHerd Framework](https://github.com/redherd-project/redherd-framework): A collaborative and serverless framework for orchestrating a geographically distributed group of assets.
 
@@ -52,9 +53,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logoColor=white&logo=docker)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logoColor=white&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?&style=for-the-badge&logo=markdown)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logoColor=white&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?&style=for-the-badge&logoColor=white&logo=firebase)
+![Markdown](https://img.shields.io/badge/Markdown-000000?&style=for-the-badge&logo=markdown)
+![LaTeX](https://img.shields.io/badge/-LaTeX-green?style=for-the-badge&logo=latex)
 
 ---
 
