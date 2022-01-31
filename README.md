@@ -12,13 +12,13 @@
 - 🎓 Ph.D. in "Electronic Engineering" at University of Rome "Tor Vergata"
 - 📡🛰️ Spacecraft Operations Engineer
 - 🖥️ Senior Security Engineer
-- 🔨 Passionate Developer
+- 🔨 Senior Research & Development Engineer
 
 ---
 
 ### 🚧 Projects
 
-- [OpenLTE-CSI](https://github.com/Peco602/OpenLTE-CSI) and [LTE-Cell-Scanner-CSI](https://github.com/Peco602/LTE-Cell-Scanner-CSI): Localization, crowdcounting and acrivity recognition based on LTE Channel State Information (CSI)
+- [OpenLTE-CSI](https://github.com/Peco602/OpenLTE-CSI) and [LTE-Cell-Scanner-CSI](https://github.com/Peco602/LTE-Cell-Scanner-CSI): Localization, crowdcounting and activity recognition based on LTE Channel State Information (CSI)
 - Bullet Bet Predictions ([Android](https://play.google.com/store/apps/details?id=com.pecoraro.bullet&hl=en_US&gl=US)/[iOS](https://apps.apple.com/us/app/bullet-bet-predictions/id1355367427)): A mobile app that provides football predictions based on machine learning.
 - [RedHerd Framework](https://github.com/redherd-project/redherd-framework): A collaborative and serverless framework for orchestrating a geographically distributed group of assets.
 
@@ -64,6 +64,6 @@
 
 <!-- <p align="center"> -->
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Peco602&show_icons=true&theme=dark" />
-<!-- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peco602&theme=dark&&layout=compact&exclude_repo=OpenLTE-CSI,LTE-Cell-Scanner-CSI" /> -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peco602&theme=dark&&layout=compact&exclude_repo=OpenLTE-CSI,LTE-Cell-Scanner-CSI&hide=Sass,CSS,HTML,SCSS" />
 <!-- </p> -->
 
