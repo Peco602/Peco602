@@ -64,6 +64,6 @@
 
 <!-- <p align="center"> -->
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Peco602&show_icons=true&theme=dark" />
-<!-- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peco602&theme=dark&&layout=compact&exclude_repo=OpenLTE-CSI,LTE-Cell-Scanner-CSI" /> -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peco602&theme=dark&&layout=compact&exclude_repo=OpenLTE-CSI,LTE-Cell-Scanner-CSI&hide=Sass,CSS,HTML,SCSS" />
 <!-- </p> -->
 
