@@ -12,7 +12,7 @@
 - 🎓 Ph.D. in "Electronic Engineering" at University of Rome "Tor Vergata"
 - 📡🛰️ Spacecraft Operations Engineer
 - 🖥️ Senior Security Engineer
-- 🔨 Passionate Developer
+- 🔨 Senior Research & Development Engineer
 
 ---
 
