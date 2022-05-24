@@ -21,6 +21,7 @@
 - [OpenLTE-CSI](https://github.com/Peco602/OpenLTE-CSI) and [LTE-Cell-Scanner-CSI](https://github.com/Peco602/LTE-Cell-Scanner-CSI): Localization, crowdcounting and activity recognition based on LTE Channel State Information (CSI)
 - Bullet Bet Predictions ([Android](https://play.google.com/store/apps/details?id=com.pecoraro.bullet&hl=en_US&gl=US)/[iOS](https://apps.apple.com/us/app/bullet-bet-predictions/id1355367427)): A mobile app that provides football predictions based on machine learning.
 - [RedHerd Framework](https://github.com/redherd-project/redherd-framework): A collaborative and serverless framework for orchestrating a geographically distributed group of assets.
+- [RustHunter](https://github.com/Peco602/rusthunter): A modular incident response framework to build and compare environmental baselines.
 
 ---
 
@@ -36,27 +37,33 @@
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠 Languages
 
-![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logoColor=white&logo=git)
-![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logoColor=white&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Nodejs](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
-![Angular](https://img.shields.io/badge/Angular-DD0031?&style=for-the-badge&logoColor=white&logo=angular)
 ![C](https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logoColor=white&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logoColor=white&logo=cplusplus)
 ![C Sharp](https://img.shields.io/badge/C%20Sharp-239120?&style=for-the-badge&logoColor=white&logo=csharp)
-![Java](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logoColor=white&logo=java)
-![Swift](https://img.shields.io/badge/Swift-FA7343?&style=for-the-badge&logoColor=white&logo=swift)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?&style=for-the-badge&logoColor=white&logo=gnubash)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?&style=for-the-badge&logoColor=white&logo=powershell)
-![Docker](https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logoColor=white&logo=docker)
-![HTML](https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logoColor=white&logo=html5)
+![C++](https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logoColor=white&logo=cplusplus)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logoColor=white&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?&style=for-the-badge&logoColor=white&logo=firebase)
-![Markdown](https://img.shields.io/badge/Markdown-000000?&style=for-the-badge&logo=markdown)
+![Java](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logoColor=white&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-green?style=for-the-badge&logo=latex)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?&style=for-the-badge&logoColor=white&logo=powershell)
+![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logoColor=white&logo=python)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+![Swift](https://img.shields.io/badge/Swift-FA7343?&style=for-the-badge&logoColor=white&logo=swift)
+
+---
+
+### 🧰 Frameworks
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?&style=for-the-badge&logoColor=white&logo=angular)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?&style=for-the-badge&logo=markdown)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 
 ---
 
