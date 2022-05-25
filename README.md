@@ -34,6 +34,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://it.linkedin.com/in/giovanni-pecoraro-078500155)
 [![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=ffffff)](https://scholar.google.com/citations?user=JSM2EcoAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=ffffff)](https://orcid.org/0000-0003-2888-113X)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Peco602/)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/users/giovanni1.pecoraro/projects)
 
 ---
 
