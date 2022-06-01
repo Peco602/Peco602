@@ -25,6 +25,13 @@
 
 ---
 
+### 🎤 Talks
+
+- [Blackhat Europe 2021 Arsenal](https://www.youtube.com/watch?v=jo20NwS3sDw) - RedHerd Framework [10/11/2021]
+- [CYSAT '22](https://www.youtube.com/watch?v=Kfwiw-2TkMw) - Keynote "Cyber range for space a way to optimize the cybersecurity process" [07/04/2022]
+
+---
+
 ### 📫 Accounts
 
 <!-- https://medium.com/@therafamartins/make-your-customized-badges-in-a-few-minutes-18e75475e271 -->
