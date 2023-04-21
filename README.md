@@ -56,7 +56,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-green?style=for-the-badge&logo=latex)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?&style=for-the-badge&logoColor=white&logo=powershell)
-![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logoColor=white&logo=python)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?&style=for-the-badge&logoColor=white&logo=swift)
 
@@ -68,11 +68,15 @@
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?&style=for-the-badge&logo=markdown)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ---
 
@@ -80,6 +84,6 @@
 
 <!-- <p align="center"> -->
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Peco602&show_icons=true&theme=dark" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peco602&theme=dark&&layout=compact&exclude_repo=OpenLTE-CSI,LTE-Cell-Scanner-CSI,mlops-zoomcamp,ml-zoomcamp&hide=Sass,CSS,HTML,SCSS" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peco602&theme=dark&&layout=compact&exclude_repo=OpenLTE-CSI,LTE-Cell-Scanner-CSI,mlops-zoomcamp,ml-zoomcamp&hide=Sass,CSS,HTML,SCSS,jupyter%20notebook" />
 <!-- </p> -->
 
